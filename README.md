@@ -69,3 +69,10 @@ source venv/Scripts/activate   # Windows
 pip install -r requirements.txt
 yolo11m.pt
 python app.py
+
+Developer
+
+Saniya Nadaf
+BCA | Computer Vision & AI Enthusiast
+
+🔗 GitHub: https://github.com/SaniyaNadaf
